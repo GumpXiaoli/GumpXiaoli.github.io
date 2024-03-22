@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[328],{3179:s=>{s.exports=JSON.parse('{"label":"test","permalink":"/docs/tags/test","allTagsPath":"/docs/tags","count":1,"items":[{"id":"casting-api/materials","title":"Materials Definition","description":"","permalink":"/docs/casting-api/materials"}],"unlisted":false}')}}]);
